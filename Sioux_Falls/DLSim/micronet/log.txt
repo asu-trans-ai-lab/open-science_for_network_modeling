@@ -1,0 +1,135 @@
+LoadingStartTimeInMin = 360
+g_LoadingStartTimeInMin = 540
+number_of_simulation_intervals = 57602
+number_of_simu intervals in sec = 14400
+allocate 2D dynamic memory LinkOutFlowCapacity...
+allocate 2D dynamic memory m_LinkCumulativeArrivalVector...
+allocate 2D dynamic memory m_LinkCumulativeDepartureVector...
+allocate 2D dynamic memory m_LinkTDWaitingTime...
+initializing time dependent capacity data...
+End of initializing time dependent capacity data.
+generating 0 K agents for 0  zones 
+number of simulation zones:24
+simu time= 0 min, CA = 0 CD=0, speed=60, travel time = 0
+simu time= 10 min, CA = 20310 CD=8255, speed=40.1751, travel time = 4.93593
+simu time= 20 min, CA = 40376 CD=18813, speed=33.1089, travel time = 6.66398
+simu time= 30 min, CA = 60427 CD=29471, speed=28.4824, travel time = 7.998
+simu time= 40 min, CA = 80424 CD=40131, speed=25.0961, travel time = 9.20622
+simu time= 50 min, CA = 100419 CD=50854, speed=22.5269, travel time = 10.3611
+simu time= 60 min, CA = 120534 CD=61454, speed=20.5882, travel time = 11.4207
+simu time= 70 min, CA = 140467 CD=72098, speed=19.0306, travel time = 12.4458
+simu time= 80 min, CA = 160533 CD=82750, speed=17.7045, travel time = 13.4509
+simu time= 90 min, CA = 180830 CD=93397, speed=16.5692, travel time = 14.4413
+simu time= 100 min, CA = 200610 CD=104037, speed=15.6091, travel time = 15.3969
+simu time= 110 min, CA = 220676 CD=114736, speed=14.7383, travel time = 16.3617
+simu time= 120 min, CA = 240727 CD=125450, speed=13.9743, travel time = 17.3116
+simu time= 130 min, CA = 260724 CD=136262, speed=13.2852, travel time = 18.2529
+simu time= 140 min, CA = 280719 CD=147076, speed=12.6702, travel time = 19.1758
+simu time= 150 min, CA = 300834 CD=157822, speed=12.1108, travel time = 20.0988
+simu time= 160 min, CA = 320767 CD=168572, speed=11.6044, travel time = 21.0105
+simu time= 170 min, CA = 340833 CD=179309, speed=11.1308, travel time = 21.9353
+simu time= 180 min, CA = 360600 CD=190056, speed=10.6972, travel time = 22.857
+simu time= 190 min, CA = 360600 CD=199371, speed=10.2616, travel time = 23.9414
+simu time= 200 min, CA = 360600 CD=205755, speed=9.66208, travel time = 25.5627
+simu time= 210 min, CA = 360600 CD=211806, speed=9.04117, travel time = 27.4229
+simu time= 220 min, CA = 360600 CD=217603, speed=8.47396, travel time = 29.3836
+simu time= 230 min, CA = 360600 CD=223047, speed=7.95697, travel time = 31.4088
+simu time= 240 min, CA = 360600 CD=228321, speed=7.49657, travel time = 33.4622
+e profile ratio at slot  95 = 0.666667
+cumulative profile ratio at slot  96 = 0.694445
+cumulative profile ratio at slot  97 = 0.722223
+cumulative profile ratio at slot  98 = 0.75
+cumulative profile ratio at slot  99 = 0.777778
+cumulative profile ratio at slot  100 = 0.805556
+cumulative profile ratio at slot  101 = 0.833334
+cumulative profile ratio at slot  102 = 0.861111
+cumulative profile ratio at slot  103 = 0.888889
+cumulative profile ratio at slot  104 = 0.916667
+cumulative profile ratio at slot  105 = 0.944445
+cumulative profile ratio at slot  106 = 0.972223
+cumulative profile ratio at slot  107 = 1
+final cumulative profile ratio = 1
+o_zone_id:1, d_zone_id: 1, value = 0
+o_zone_id:1, d_zone_id: 2, value = 100
+o_zone_id:1, d_zone_id: 3, value = 100
+o_zone_id:1, d_zone_id: 4, value = 500
+o_zone_id:1, d_zone_id: 5, value = 200
+o_zone_id:1, d_zone_id: 6, value = 300
+total demand volume is 360600
+crtical demand volume has 528 OD pairs in size,360600, , account for 100%%
+crtical OD zones volume has 528 OD pairs in size,360600, , account for 100%%
+There are  0 zones with positive demand
+Step 2: Assigning computing tasks to memory blocks...
+There are 20 SP networks in memory.
+There are 0 RTSP networks in memory.
+There are 120 agent type*zones to be computed in CPU.
+
+Step 3: Column Generation for Traffic Assignment...
+Total Column Generation iteration: 4
+
+Current iteration number:0
+Current CPU time: 0.002 s
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+iteration: 0,systemTT: 0, least system TT:8.64837e+07,gap=-1
+
+Current iteration number:1
+Current CPU time: 0.118 s
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+iteration: 1,systemTT: 0, least system TT:8.64837e+07,gap=-1
+
+Current iteration number:2
+Current CPU time: 0.21 s
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+iteration: 2,systemTT: 1.64786e+06, least system TT:8.6644e+07,gap=-0.980981
+
+Current iteration number:3
+Current CPU time: 0.31 s
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+label correcting for zone 0 in processor 0
+iteration: 3,systemTT: 1.64786e+06, least system TT:8.6644e+07,gap=-0.980981
+
+Step 4: Column Pool Updating
+Total Column Pool Updating iteration: 0
+ updating
+Step 5: Simulation for traffic assignment..
+CPU Running Time for traffic simulation: 0 s
+
+Done!
+CPU Running Time for the entire computing progcess: 309.566 s
+Step 1.9: Reading file section [output_file_configuration] in setting.csv...
+dynamic_link_performance_sampling_interval_in_min= 60 min
+dynamic_link_performance_sampling_interval_hd_in_min= 15 min
+writing od_accessibility.csv..
+writing data for 24  zones 
+writing link_performance.csv..
+writing route_assignment.csv..
+writing link_performance.csv..
+writing data for 24  zones 
+writing dynamic_link_performance.csv..
+writing dynamic_link_performance.csv..
+writing dynamic_link_state.csv..
+writing agent.csv..
+writing data for 24  zones 
+writing trajectory.csv..
+writing data for 24  zones 
+writing trace.csv..
+writing data for 24  zones 
+Output for assignment with 4 iterations. Traffic assignment completes!
+CPU Running Time for outputting simulation results: 464.429 s
+free memory..
+done.
