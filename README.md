@@ -16,6 +16,9 @@ students can develop their critical thinking and problem solving skills so that
 they can transfer and apply their knowledge and ideas to novel topics and new
 circumstances.
 
+![Graphical user interface Description automatically
+generated](media/9cd408116775ec4306acce46a79bb510.png)
+
 In serving this goal, we try to create an environment where students have the
 opportunity to explore different perspectives of network modeling and faculty
 can continually challenge students' perceptions. Ideally, learning and thinking
