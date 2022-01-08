@@ -30,4 +30,6 @@ traffic assignment, sensor data, signal control and optimization, 2) help
 students develop problem-solving skills in an interdisciplinary area involving
 mobility, energy, emissions and safety measures.
 
-[License](https://github.com/asu-trans-ai-lab/DLSim)
+Resources:
+
+[Transportation Test Problems (bgu.ac.il)](https://www.bgu.ac.il/~bargera/tntp/)
