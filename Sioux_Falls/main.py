@@ -16,7 +16,7 @@ map_folder = r'network'
 def getInitialNet():
     # choose link_types from 'motorway', 'trunk','primary','secondary', 'tertiary', 'residential'. default: 'all'
     net = og.getNetFromFile(filename=os.path.join(map_folder, 'map.pbf'),
-                            link_types=('motorway', 'trunk', 'primary', 'secondary', 'tertiary'),
+                            link_types=('motorway', 'trunk'),
                             default_lanes=True, default_speed=True, default_capacity=True)
 
     og.consolidateComplexIntersections(net, auto_identify=True)
