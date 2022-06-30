@@ -1,0 +1,16 @@
+PHF: 1.0
+default_c_Min: 60.0
+default_volume_filled_by_code: true
+end_time_in_min: 480
+f_hv: 1.0
+f_lu: 1.0
+l_value: 12.0
+minGreenTime: 12
+start_time_in_min: 420
+t_AR: 2
+t_L: 4
+t_Yellow: 4
+use_reference_cycle_length: true
+x_c_Input: 0.99
+x_c_output: 0.9
+y_StageMax: 1
